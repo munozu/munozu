@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jake
-- 👀 I’m interested in interactive art in the browser
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on creative audio visual projects
+- 👋 Ay what's happenin...
+- 👀 I’m into all things audio and the web.
+- 🌱 I’m currently learning about Web3 technologies.
+- 💞️ I’m looking to collaborate on browser based creative audio/visual projects.
 - 📫 Hit me up on twitter, @_munozu
 
 <!---
